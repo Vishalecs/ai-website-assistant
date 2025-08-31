@@ -1,0 +1,18 @@
+{
+  "electronics": [
+    { "name": "Amazon", "url": "https://www.amazon.in/" },
+    { "name": "Flipkart", "url": "https://www.flipkart.com/" },
+    { "name": "Croma", "url": "https://www.croma.com/" },
+    { "name": "Reliance Digital", "url": "https://www.reliancedigital.in/" }
+  ],
+  "fashion": [
+    { "name": "Myntra", "url": "https://www.myntra.com/" },
+    { "name": "AJIO", "url": "https://www.ajio.com/" },
+    { "name": "Amazon Fashion", "url": "https://www.amazon.in/fashion" }
+  ],
+  "furniture": [
+    { "name": "Pepperfry", "url": "https://www.pepperfry.com/" },
+    { "name": "IKEA India", "url": "https://www.ikea.com/in/en/" },
+    { "name": "Urban Ladder", "url": "https://www.urbanladder.com/" }
+  ]
+}

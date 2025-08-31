@@ -1,0 +1,61 @@
+{
+  "electronics": {
+    "keywords": [
+      "laptop",
+      "notebook",
+      "phone",
+      "smartphone",
+      "mobile",
+      "headphone",
+      "earbuds",
+      "camera",
+      "tv",
+      "television",
+      "tablet",
+      "monitor",
+      "gaming",
+      "console",
+      "printer",
+      "electronics"
+    ]
+  },
+  "fashion": {
+    "keywords": [
+      "shirt",
+      "t-shirt",
+      "jeans",
+      "dress",
+      "shoes",
+      "sneakers",
+      "saree",
+      "kurta",
+      "lehenga",
+      "jacket",
+      "hoodie",
+      "apparel",
+      "clothing",
+      "fashion",
+      "watch",
+      "bag",
+      "accessories"
+    ]
+  },
+  "furniture": {
+    "keywords": [
+      "sofa",
+      "chair",
+      "table",
+      "bed",
+      "mattress",
+      "wardrobe",
+      "desk",
+      "bookshelf",
+      "dining",
+      "furniture",
+      "couch",
+      "cupboard",
+      "recliner",
+      "stool"
+    ]
+  }
+}

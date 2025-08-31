@@ -1,0 +1,53 @@
+{
+  "electronics": [
+    {
+      "name": "Amazon India",
+      "url": "https://www.amazon.in",
+      "strengths": ["huge selection", "festive deals", "fast delivery", "reliable returns"]
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://www.flipkart.com",
+      "strengths": ["competitive pricing", "exchange offers", "bank discounts"]
+    },
+    {
+      "name": "Croma",
+      "url": "https://www.croma.com",
+      "strengths": ["authorised retailer", "in-store pickup", "brand warranties"]
+    }
+  ],
+  "fashion": [
+    {
+      "name": "Myntra",
+      "url": "https://www.myntra.com",
+      "strengths": ["wide fashion range", "frequent sales", "easy returns"]
+    },
+    {
+      "name": "AJIO",
+      "url": "https://www.ajio.com",
+      "strengths": ["trendy selections", "value deals", "own-label styles"]
+    },
+    {
+      "name": "Amazon Fashion",
+      "url": "https://www.amazon.in/fashion",
+      "strengths": ["massive catalogue", "fast delivery", "simple returns"]
+    }
+  ],
+  "furniture": [
+    {
+      "name": "IKEA India",
+      "url": "https://www.ikea.com/in/en/",
+      "strengths": ["modern designs", "value pricing", "in-store experience"]
+    },
+    {
+      "name": "Pepperfry",
+      "url": "https://www.pepperfry.com",
+      "strengths": ["vast selection", "assembly services", "periodic discounts"]
+    },
+    {
+      "name": "Urban Ladder",
+      "url": "https://www.urbanladder.com",
+      "strengths": ["quality craftsmanship", "aesthetic designs", "solid warranty"]
+    }
+  ]
+}

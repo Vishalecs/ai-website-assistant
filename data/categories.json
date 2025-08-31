@@ -1,0 +1,51 @@
+{
+  "electronics": [
+    "laptop",
+    "gaming laptop",
+    "mobile",
+    "smartphone",
+    "headphone",
+    "earbuds",
+    "tablet",
+    "camera",
+    "dslr",
+    "smartwatch",
+    "television",
+    "tv",
+    "monitor",
+    "ssd",
+    "hard drive",
+    "printer",
+    "router"
+  ],
+  "fashion": [
+    "shoes",
+    "sneakers",
+    "heels",
+    "dress",
+    "jeans",
+    "t-shirt",
+    "shirt",
+    "saree",
+    "kurta",
+    "hoodie",
+    "jacket",
+    "skirt",
+    "trousers"
+  ],
+  "furniture": [
+    "sofa",
+    "couch",
+    "chair",
+    "recliner",
+    "table",
+    "coffee table",
+    "bed",
+    "mattress",
+    "wardrobe",
+    "desk",
+    "bookshelf",
+    "dining table",
+    "tv unit"
+  ]
+}
